@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojaehuhei.sinceq.com/sitemap.xml
